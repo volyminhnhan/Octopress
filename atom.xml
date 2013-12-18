@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Võ Lý Minh Nhân Weekly Report Page]]></title>
+  <link href="http://volyminhnhan.github.io//github/atom.xml" rel="self"/>
+  <link href="http://volyminhnhan.github.io//github/"/>
+  <updated>2013-12-18T15:25:32+07:00</updated>
+  <id>http://volyminhnhan.github.io//github/</id>
+  <author>
+    <name><![CDATA[Võ Lý Minh Nhân]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[[WebA].[A].Weekly-Report-Tuesday-17-12-2013]]></title>
+    <link href="http://volyminhnhan.github.io//github/blog/2013/12/18/weba-dot-a-dot-weekly-report-tuesday-17-12-2013/"/>
+    <updated>2013-12-18T11:44:51+07:00</updated>
+    <id>http://volyminhnhan.github.io//github/blog/2013/12/18/weba-dot-a-dot-weekly-report-tuesday-17-12-2013</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
